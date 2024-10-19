@@ -1,0 +1,6 @@
+{ 
+  "info": "applet for cartoon", 
+  "applet": "cartoon/applet.py",
+  "base": "cartoon_model",
+  "port_tcp": 5571, "port_file": 5572, "port_tcpd": 6571
+}

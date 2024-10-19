@@ -1,0 +1,11 @@
+## logrotate -f /etc/logrotate.d/atlas200dk 
+/root/ascend/log/plog/plog-*.log {
+    weekly
+    rotate 7
+    compress
+    delaycompress
+    missingok
+    notifempty
+    copytruncate
+    create 644 root root
+}

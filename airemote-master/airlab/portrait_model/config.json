@@ -1,0 +1,8 @@
+{ 
+      "info": "model for portrait",
+      "file": "/home/HwHiAiUser/models/portrait/portrait.om",
+      "port": 5567,
+      "atc_urls": ["https://obs-9be7.obs.cn-east-2.myhuaweicloud.com/003_Atc_Models/AE/ATC%20Model/PortraitNet%20/portrait.pb"],
+      "atc_options": "--output_type=FP32 --input_shape=\"Inputs/x_input:1,224,224,3\" --framework=3 --insert_op_conf=/home/HwHiAiUser/models/portrait_model/aipp.cfg",
+      "test_input_url": ""
+}

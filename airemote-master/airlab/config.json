@@ -1,0 +1,7 @@
+{ 
+  "remote": "localhost",
+  "clusters": "192.168.0.10,",
+  "soc_version": "Ascend310B1",
+  "dir": "airlab"
+}
+
