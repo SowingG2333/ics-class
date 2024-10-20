@@ -1,0 +1,17 @@
+# Ignore teacher's code
+airemote-master/
+class-ai-samples-master/
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
