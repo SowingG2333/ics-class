@@ -1,8 +1,0 @@
-{
-  "info": "model for cartoon",
-  "file": "/home/HwHiAiUser/models/cartoon/cartoonization.om",
-  "port": 5570,
-  "atc_urls": ["https://obs-9be7.obs.cn-east-2.myhuaweicloud.com/003_Atc_Models/AE/ATC%20Model/cartoonization/cartoonization.pb"],
-  "atc_options": "--output_type=FP32 --input_shape=\"train_real_A:1,256,256,3\" --input_format=NHWC --framework=3 --save_original_model=false --precision_mode=allow_fp32_to_fp16",
-  "test_input_url": "https://obs-9be7.obs.cn-east-2.myhuaweicloud.com/models/cartoonGAN_picture/scenery.jpg"
-}

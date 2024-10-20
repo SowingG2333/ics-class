@@ -1,8 +1,0 @@
- { "info": "model for yolov3",
-      "file": "/home/HwHiAiUser/models/yolov3/yolov3.om",
-      "port": 5563,
-      "file_url": "",
-      "atc_urls": ["https://obs-9be7.obs.cn-east-2.myhuaweicloud.com/003_Atc_Models/AE/ATC%20Model/head_pose_picture/yolo_model.pb"],
-      "atc_options": "--framework=3 --input_shape=\"input_1:1,416,416,3\" --input_format=NHWC --output_type=FP32",
-      "test_input_url": ""
- }

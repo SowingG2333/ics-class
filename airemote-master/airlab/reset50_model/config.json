@@ -1,9 +1,0 @@
-{ 
-  "info": "Model for ResNet",
-  "file": "/home/HwHiAiUser/models/resnet50/resnet50.om",
-  "port": 5590,
-  "file_url": "",
-  "atc_urls": ["https://obs-9be7.obs.cn-east-2.myhuaweicloud.com/models/resnet50_mindspore/resnet-90_1875.air"],
-  "atc_options": "--framework=1",
-  "test_input_url": ""
-}

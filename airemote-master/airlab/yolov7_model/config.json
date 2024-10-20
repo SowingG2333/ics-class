@@ -1,9 +1,0 @@
-{ 
-  "info": "Model for YoloV7",
-  "file": "/home/HwHiAiUser/models/yolov7/yolov7.om",
-  "port": 5595,
-  "file_url": "",
-  "atc_urls": ["https://obs-9be7.obs.cn-east-2.myhuaweicloud.com/003_Atc_Models/yolov7/yolov7x.onnx"],
-  "atc_options": "--framework=5 --input_shape=\"images:1,3,640,640\" --insert_op_conf=/home/HwHiAiUser/models/yolov7_model/aipp.cfg",
-  "test_input_url": "https://obs-9be7.obs.cn-east-2.myhuaweicloud.com/models/aclsample/dog1_1024_683.jpg"
-}
